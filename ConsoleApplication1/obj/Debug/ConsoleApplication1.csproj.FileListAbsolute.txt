@@ -4,3 +4,9 @@ P:\UML\uml-workshop2-design-console\ConsoleApplication1\ConsoleApplication1\bin\
 P:\UML\uml-workshop2-design-console\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 P:\UML\uml-workshop2-design-console\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 P:\UML\uml-workshop2-design-console\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+P:\serializer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+P:\serializer\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+P:\serializer\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+P:\serializer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+P:\serializer\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+P:\serializer\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
